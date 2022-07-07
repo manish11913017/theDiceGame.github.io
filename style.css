@@ -1,0 +1,55 @@
+body{
+    background-color: #EAF6F6;
+}
+
+#big-text{
+    font-family: 'Brush Script MT', cursive;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    color: #764AF1;
+    font-size: 70px;
+}
+
+.hidden{
+    display: none;
+}
+.center-alig{
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    
+}
+
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
+.player-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #66BFBF;
+}
+
+#player1{
+    padding-left: 325px;
+}
+
+#player2{
+    padding-right: 325px;
+}
+
+.btn-margin{
+    margin: 30px;
+}
+
+#dice1{
+    margin-right: 65px;
+}
+
+#dice2{
+    margin-left: 65px;
+}
